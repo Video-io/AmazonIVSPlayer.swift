@@ -23,7 +23,7 @@ let package = Package(
         // swift package compute-checksum AmazonIVSPlayer.zip
         .binaryTarget(
             name: "AmazonIVSPlayer",
-            url: "https://github.com/Video-io/AmazonIVSPlayer.swift/blob/main/AmazonIVSPlayer.xcframework.zip",
+            url: "https://github.com/Video-io/AmazonIVSPlayer.swift/raw/main/AmazonIVSPlayer.xcframework.zip",
             checksum: "7ae52c6e33b1c7faf2e6bccf9df0206ac9e2608355cfa76f2d8363146b500c49"
         ),
     ]
